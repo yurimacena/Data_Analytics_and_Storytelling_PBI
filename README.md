@@ -1,2 +1,2 @@
-# Data_Analytics_and_Storytelling_PBI
-Data Analytics and Storytelling in Power BI
+# Data Analytics and Storytelling in Power BI
+Analisando dados e utilizando histórias em relátorios no Power BI
